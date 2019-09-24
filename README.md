@@ -1,6 +1,6 @@
 # BacARscan
 Bacterial Antibiotic Resistance scanning and annotations by profile Hidden Markov Models
-*****************How to use it? **************
+***********How to use it? **************
 
 ######Files description#####
 
