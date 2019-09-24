@@ -1,6 +1,6 @@
 # BacARscan
 Bacterial Antibiotic Resistance scanning and annotations by profile Hidden Markov Models
-
+BacARscan that can detect, predict and characterize ARGs in functional metagenomics data, including short sequencing reads and fragmented contigs. It is anticipated that this ability of BacARscan would be helpful in rapid monitoring, characterization and surveillance of ARG repertoire in bacterial communities at an early stage of infection/outbreak. We also expect that BacARscan would be helpful to the scientific community for quick monitoring of ARGs in a microbial population. 
 
 ***********How to use it? **************
 
@@ -26,4 +26,4 @@ HMMER download and install as standalone using link: http://hmmer.org/download.h
 Using above commands user can scan their protein and nucleotide sequences; upon search it will give the similarity score and e-value. Depending on the scores user can select hits and retrieve their complete annotation using “ARG_Annotations” file.
 
 
-Visit our website for latest version & scanning of ARGs using freely accessible tool: http://proteininformatics.org/mkumar/bacarscan/
+Visit our website for latest version, Executable versions, source code, profile HMMs, annotations, seed sequences and usage instructions can be downloaded from http://proteininformatics.org/mkumar/bacarscan/
