@@ -1,5 +1,5 @@
-# BacARscan
-Bacterial Antibiotic Resistance scanning and annotations by profile Hidden Markov Models
+# BacARscan: Bacterial Antibiotic Resistance scanning and annotations by profile Hidden Markov Models
+
 BacARscan that can detect, predict and characterize ARGs in functional metagenomics data, including short sequencing reads and fragmented contigs. It is anticipated that this ability of BacARscan would be helpful in rapid monitoring, characterization and surveillance of ARG repertoire in bacterial communities at an early stage of infection/outbreak. We also expect that BacARscan would be helpful to the scientific community for quick monitoring of ARGs in a microbial population. 
 
 ***********How to use it? **************
